@@ -16,4 +16,19 @@ The RPN network has 4 small CNNs for each of template and patch for both regress
 One issue is because template CNN has 2*5*256 and 4*5*256 channels it leads to massive growth in number of parameters, which leads to difficult optimisation. One way is to use Channel wise convolution than the normal convolution.
 
 # Model
-I have trained it on OTB-14 dataset, and checked its performance on the separately kept validation dataset. 
+I have trained it on OTB-14 dataset, and checked its performance on the separately kept validation dataset.
+Please check the notebook for model implementation, and results. 
+
+# Results
+Red bb is prediction, green bb is grund truth.
+
+## Training
+![image description](Videos/training/Woman.gif)
+
+## Validation
+sorted in order from best to worst
+![image description](Videos/validation/David2.gif)
+![image description](Videos/validation/Coke.gif)
+![image description](Videos/validation/FaceOcc1.gif)
+![image description](Videos/validation/Surfer.gif)
+![image description](Videos/validation/DragonBaby.gif)
