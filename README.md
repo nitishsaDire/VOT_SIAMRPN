@@ -26,8 +26,7 @@ Red bb is prediction, green bb is grund truth.
 <img src="Videos/training/Woman.gif") width="700"/>
 
 ## Validation
-sorted in order from best to wo<img src="Videos/validation/David2.gif" width="700"/>
-rst
+sorted in order from best to worst
 
 <img src="Videos/validation/David2.gif" width="700"/>
 
