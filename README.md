@@ -28,7 +28,11 @@ Red bb is prediction, green bb is grund truth.
 ## Validation
 sorted in order from best to worst
 ![image description](Videos/validation/David2.gif)
+
 ![image description](Videos/validation/Coke.gif)
+
 ![image description](Videos/validation/FaceOcc1.gif)
+
 ![image description](Videos/validation/Surfer.gif)
+
 ![image description](Videos/validation/DragonBaby.gif)
