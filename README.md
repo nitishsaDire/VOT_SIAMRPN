@@ -30,7 +30,7 @@ sorted in order from best to worst
 
 ![](Videos/validation/David2.gif)
 
-<img src="Videos/validation/David2.gif" width="512"/>
+<img src="Videos/validation/David2.gif" width="700"/>
 
 ![](Videos/validation/Coke.gif)
 
