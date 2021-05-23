@@ -23,7 +23,7 @@ Please check the notebook for model implementation, and results.
 Red bb is prediction, green bb is grund truth.
 
 ## Training
-<img src="Videos/training/Woman.gif") width="700"/>
+<img src="Videos/training/Woman.gif" width="700"/>
 
 ## Validation
 sorted in order from best to worst
