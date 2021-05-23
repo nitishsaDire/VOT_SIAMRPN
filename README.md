@@ -23,19 +23,18 @@ Please check the notebook for model implementation, and results.
 Red bb is prediction, green bb is grund truth.
 
 ## Training
-![](Videos/training/Woman.gif)
+<img src="Videos/training/Woman.gif") width="700"/>
 
 ## Validation
-sorted in order from best to worst
-
-![](Videos/validation/David2.gif)
+sorted in order from best to wo<img src="Videos/validation/David2.gif" width="700"/>
+rst
 
 <img src="Videos/validation/David2.gif" width="700"/>
 
-![](Videos/validation/Coke.gif)
+<img src="Videos/validation/Coke.gif" width="700"/>
 
-![](Videos/validation/FaceOcc1.gif)
+<img src="Videos/validation/FaceOcc1.gif" width="700"/>
 
-![](Videos/validation/Surfer.gif)
+<img src="Videos/validation/Surfer.gif" width="700"/>
 
-![](Videos/validation/DragonBaby.gif)
+<img src="Videos/validation/DragonBaby.gif" width="700"/>
